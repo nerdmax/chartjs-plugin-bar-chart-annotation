@@ -1,9 +1,10 @@
 # chartjs-plugin-bar-chart-annotation
-> Bar chart annotation for Chart.js
 
-[![NPM Version][npm-image]][npm-url]
-<!-- [![Build Status][travis-image]][travis-url] -->
-[![Downloads Stats][npm-downloads]][npm-url]
+${badge('npm')} ${badge('license')} ${badge('github-issues')} ${badge('circleci')}
+
+> ${pkg.description}
+
+${badge('nodei')}
 
 ![](header.png)
 
