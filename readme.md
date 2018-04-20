@@ -3,7 +3,8 @@
 [![NPM Version][npm-image]][npm-url]
 [![License Stats][npm-license]][npm-url]
 [![Downloads Stats][npm-downloads]][npm-url]
-[![Github issues][github-issues]][github-url]
+[![Github stars][github-stars]][github-url]
+[![Github issues][github-issues]][github-issues-url]
 <!-- [![Build Status][travis-image]][travis-url] -->
 
 > Bar chart annotation for Chart.js
@@ -41,7 +42,7 @@ clearPlugins(Chart, [
 
 Chart.pluginService.register(showNOOnTopOfBarChartPlugin);
 ```
-![](header.png)
+![](./samples/showNOOnTopOfBarChartPlugin.png)
 
 ```sh
 // Just in case one plguin gets registered twice
@@ -51,7 +52,7 @@ clearPlugins(Chart, [
 
 Chart.pluginService.register(showNOOnBottomOfBarChartPlugin);
 ```
-![](header.png)
+![](./samples/showNOOnBottomOfBarChartPlugin.png)
 
 ```sh
 // Just in case one plguin gets registered twice
@@ -61,7 +62,7 @@ clearPlugins(Chart, [
 
 Chart.pluginService.register(showInfoOnTopOfBarChartPlugin);
 ```
-![](header.png)
+![](./samples/showInfoOnTopOfBarChartPlugin.png)
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
@@ -103,12 +104,14 @@ Max LIU – [My personal website](#) – mrliucan@foxmail.com
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/chartjs-plugin-bar-chart-annotation.svg?style=flat-square
-[npm-url]:https://www.npmjs.com/package/chartjs-plugin-bar-chart-annotation
-[github-url]:https://github.com/nerdmax/chartjs-plugin-bar-chart-annotation
-[npm-license]: https://img.shields.io/npm/l/chartjs-plugin-bar-chart-annotatio.svg
+[npm-url]: https://www.npmjs.com/package/chartjs-plugin-bar-chart-annotation
+[npm-license]: https://img.shields.io/npm/l/chartjs-plugin-bar-chart-annotation.svg
 [npm-downloads]: https://img.shields.io/npm/dm/chartjs-plugin-bar-chart-annotation.svg?style=flat-square
-[github-issues]: https://img.shields.io/github/issues/nerdmax/chartjs-plugin-bar-chart-annotatio.svg
+[github-url]: https://github.com/nerdmax/chartjs-plugin-bar-chart-annotation
+[github-issues]: https://img.shields.io/github/issues/nerdmax/chartjs-plugin-bar-chart-annotation.svg
+[github-issues-url]: https://github.com/nerdmax/chartjs-plugin-bar-chart-annotation/issues
+[github-stars]: https://img.shields.io/github/stars/nerdmax/chartjs-plugin-bar-chart-annotation.svg
 [travis-image]: https://img.shields.io/travis/dbader/node-chartjs-plugin-bar-chart-annotation/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-chartjs-plugin-bar-chart-annotation
-[npm-io]: https://nodei.co/npm/node-chartjs-plugin-bar-chart-annotation.png?downloads=true&downloadRank=true&stars=true
+[npm-io]: https://nodei.co/npm/chartjs-plugin-bar-chart-annotation.png?downloads=true&downloadRank=true&stars=true
 [wiki]: https://github.com/nerdmax/chartjs-plugin-bar-chart-annotation/wiki
