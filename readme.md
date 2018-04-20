@@ -86,6 +86,8 @@ npm install
 * 0.1.0
     * The first proper release
     * CHANGE: Rename `foo()` to `bar()` -->
+* 0.0.2
+    * Update readme.md
 * 0.0.1
     * Put all source code here, work in progress
 
