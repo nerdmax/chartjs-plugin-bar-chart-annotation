@@ -11,8 +11,6 @@
 
 [![nodei.co][npm-io]][npm-url]
 
-![](header.png)
-
 ## Installation
 
 ```sh
