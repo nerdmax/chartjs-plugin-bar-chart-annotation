@@ -1,9 +1,14 @@
 # chartjs-plugin-bar-chart-annotation
-> Bar chart annotation for Chart.js
 
 [![NPM Version][npm-image]][npm-url]
-<!-- [![Build Status][travis-image]][travis-url] -->
+[![License Stats][npm-license]][npm-url]
 [![Downloads Stats][npm-downloads]][npm-url]
+[![Github issues][github-issues]][github-url]
+<!-- [![Build Status][travis-image]][travis-url] -->
+
+> Bar chart annotation for Chart.js
+
+[![nodei.co][npm-io]][npm-url]
 
 ![](header.png)
 
@@ -87,9 +92,6 @@ npm install
 
 Max LIU – [My personal website](#) – mrliucan@foxmail.com
 
-Distributed under the ISC license. See ``LICENSE`` for more information.
-
-[https://github.com/nerdmax/chartjs-plugin-bar-chart-annotation](https://github.com/nerdmax/chartjs-plugin-bar-chart-annotation)
 
 ## Contributing
 
@@ -102,7 +104,11 @@ Distributed under the ISC license. See ``LICENSE`` for more information.
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/chartjs-plugin-bar-chart-annotation.svg?style=flat-square
 [npm-url]:https://www.npmjs.com/package/chartjs-plugin-bar-chart-annotation
+[github-url]:https://github.com/nerdmax/chartjs-plugin-bar-chart-annotation
+[npm-license]: https://img.shields.io/npm/l/chartjs-plugin-bar-chart-annotatio.svg
 [npm-downloads]: https://img.shields.io/npm/dm/chartjs-plugin-bar-chart-annotation.svg?style=flat-square
+[github-issues]: https://img.shields.io/github/issues/nerdmax/chartjs-plugin-bar-chart-annotatio.svg
 [travis-image]: https://img.shields.io/travis/dbader/node-chartjs-plugin-bar-chart-annotation/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-chartjs-plugin-bar-chart-annotation
+[npm-io]: https://nodei.co/npm/node-chartjs-plugin-bar-chart-annotation.png?downloads=true&downloadRank=true&stars=true
 [wiki]: https://github.com/nerdmax/chartjs-plugin-bar-chart-annotation/wiki
