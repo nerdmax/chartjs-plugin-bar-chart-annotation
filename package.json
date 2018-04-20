@@ -1,0 +1,21 @@
+{
+  "name": "chartjs-plugin-bar-chart-annotation",
+  "version": "1.0.0",
+  "description": "Bar chart annotation for Chart.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chart.js",
+    "plugin",
+    "annotation",
+    "bar",
+    "chart"
+  ],
+  "author": "Max LIU",
+  "license": "ISC",
+  "dependencies": {
+    "numeral": "^2.0.6"
+  }
+}
