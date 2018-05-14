@@ -40,7 +40,7 @@ clearPlugins(Chart, [
 
 Chart.pluginService.register(showNOOnTopOfBarChartPlugin);
 ```
-![](./samples/showNOOnTopOfBarChartPlugin.png)
+![](https://rawgit.com/nerdmax/chartjs-plugin-bar-chart-annotation/master/samples/showNOOnTopOfBarChartPlugin.png)
 
 ```sh
 // Just in case one plguin gets registered twice
@@ -50,7 +50,7 @@ clearPlugins(Chart, [
 
 Chart.pluginService.register(showNOOnBottomOfBarChartPlugin);
 ```
-![](./samples/showNOOnBottomOfBarChartPlugin.png)
+![](https://rawgit.com/nerdmax/chartjs-plugin-bar-chart-annotation/master/samples/showNOOnBottomOfBarChartPlugin.png)
 
 ```sh
 // Just in case one plguin gets registered twice
@@ -60,7 +60,7 @@ clearPlugins(Chart, [
 
 Chart.pluginService.register(showInfoOnTopOfBarChartPlugin);
 ```
-![](./samples/showInfoOnTopOfBarChartPlugin.png)
+![](https://rawgit.com/nerdmax/chartjs-plugin-bar-chart-annotation/master/samples/showInfoOnTopOfBarChartPlugin.png)
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
